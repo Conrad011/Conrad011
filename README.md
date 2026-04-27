@@ -26,7 +26,8 @@
 
 </div>
 
+---
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-## Contate-me através do e-mail: Guilhermeconrado011@gmail.com
+## Contate-me através do e-mail: guilherme.lucas1111@gmail.com
