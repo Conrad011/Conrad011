@@ -1,9 +1,7 @@
 ### Olá! Eu sou o Guilherme Conrado 👋
 <div style="display: inline-block"><br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_conrad0/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-conrad011/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Guilherme_Conrad011)
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Conrad011&show_icons=true&theme=dracula)
 </div>
